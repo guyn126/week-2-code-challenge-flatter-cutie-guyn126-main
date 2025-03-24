@@ -1,0 +1,46 @@
+{
+  "characters": [
+    {
+      "id": "1",
+      "name": "Mr. Cute",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "votes": 0
+    },
+    {
+      "id": "2",
+      "name": "Mx. Monkey",
+      "image": "https://thumbs.gfycat.com/FatalInnocentAmericanshorthair-max-1mb.gif",
+      "votes": 0
+    },
+    {
+      "id": "3",
+      "name": "Ms. Zebra",
+      "image": "https://media2.giphy.com/media/20G9uNqE3K4dRjCppA/source.gif",
+      "votes": 120
+    },
+    {
+      "id": "4",
+      "name": "Dr. Lion",
+      "image": "http://bestanimations.com/Animals/Mammals/Cats/Lions/animated-lion-gif-11.gif",
+      "votes": 0
+    },
+    {
+      "id": "5",
+      "name": "Mme. Panda",
+      "image": "https://media.giphy.com/media/ALalVMOVR8Qw/giphy.gif",
+      "votes": 0
+    },
+    {
+      "id": "326f",
+      "name": "Tiger",
+      "image": "https://media.4-paws.org/5/4/4/c/544c2b2fd37541596134734c42bf77186f0df0ae/VIER%20PFOTEN_2017-10-20_164-3854x2667-1920x1329.jpg",
+      "votes": 300
+    },
+    {
+      "id": "b2bb",
+      "name": "Monkey",
+      "image": "https://thumbs.dreamstime.com/b/singe-mignon-79016598.jpg",
+      "votes": 26
+    }
+  ]
+}
